@@ -1,3 +1,5 @@
 # susep-pc-market-mapping
 Pipeline em Python para mapeamento e ranking de seguradoras, resseguradoras e brokers de ramos elementares (P&amp;C) no Brasil com dados públicos da SUSEP, cruzando executivos estatutários (CEO, CFO, Atuário Chefe, CRO) e grupos financeiros. #python, #pandas, #insurance, #data-pipeline, #actuarial-science, #susep
+
+
 Automated Python pipeline for mapping and ranking Brazilian Property & Casualty (P&C) insurers, reinsurers, and reinsurance brokers using SUSEP open data, cross-referencing statutory executives (CEO, CFO, Chief Actuary, CRO) and financial groups. #python, #pandas, #insurance, #data-pipeline, #actuarial-science, #susep
